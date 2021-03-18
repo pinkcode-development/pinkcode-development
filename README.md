@@ -1,16 +1,11 @@
-### Hi there 👋
+### PinkCode Development
+PinkCode ekibi ile piyasanın en iyisi olmayı amaçlayıp piyasanın ötesine geçmeyi hedef alan bir topluluk sunucusudur. Ekibimizdeki üyeler kendini geliştirmeye çalışırken aynı zamanda üyelerimize yardımcı olmaktadır. Ekibimizin listesini aşağıda bulabilirsiniz:
++ [@MuhammedDevs](https://github.com/MuhammedDevs) - `Motion#9999
++ [@ArdaEnginEbcim](https://github.com/ArdaEnginEbcim) - ⚶ Meska 🍁#4024
++ [@acarkh](https://github.com/acarkh) - acarkh#5443
++ Champヤ#2633
++ TheLord#6911
++ [@undefined-db](https://github.com/undefined-db) - undefined Copé?#6625
++ [@witcherxd](https://github.com/witcherxd) - ☨ Witcherxd Pavo#0921
 
-<!--
-**pinkcode-development/pinkcode-development** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ayrıca sunucumuza [bruaya tıklayarak](https://discord.gg/vkNZrS4MPp) ulaşabilirsiniz.
