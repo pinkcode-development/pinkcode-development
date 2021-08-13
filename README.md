@@ -8,4 +8,4 @@ PinkCode ekibi ile piyasanın en iyisi olmayı amaçlayıp piyasanın ötesine g
 + [@undefined-db](https://github.com/undefined-db) - undefined Copé?#6625
 + [@witcherxd](https://github.com/witcherxd) - ☨ Witcherxd Pavo#0921
 
-Ayrıca sunucumuza [buraya tıklayarak](https://discord.gg/vkNZrS4MPp) ulaşabilirsiniz.
+Ayrıca sunucumuza [buraya tıklayarak](https://discord.gg/cznpBHYCkT) ulaşabilirsiniz.
